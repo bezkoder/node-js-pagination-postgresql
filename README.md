@@ -6,6 +6,8 @@ For more detail, please visit:
 Front-end that works well with this Back-end:
 > [React Pagination with API using Material-UI](https://bezkoder.com/react-pagination-material-ui/)
 
+> [React Table Pagination with react-table 7](https://bezkoder.com/react-table-pagination-server-side/)
+
 > [Angular 8 Pagination example | ngx-pagination](https://bezkoder.com/ngx-pagination-angular-8/)
 
 > [Angular 10 Pagination example | ngx-pagination](https://bezkoder.com/angular-10-pagination-ngx/)
@@ -37,6 +39,13 @@ Fullstack CRUD App:
 > [Angular 11 + Node.js + Express + PostgreSQL example](https://bezkoder.com/angular-11-node-js-express-postgresql/)
 
 > [React + Node.js + Express + PostgreSQL example](https://bezkoder.com/react-node-express-postgresql/)
+
+Integration (run back-end & front-end on same server/port)
+> [Integrate React with Node.js Restful Services](https://bezkoder.com/integrate-react-express-same-server-port/)
+
+> [Integrate Angular with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [Integrate Vue with Node.js Restful Services](https://bezkoder.com/serve-vue-app-express/)
 
 ## Project setup
 ```
